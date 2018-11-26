@@ -6,7 +6,7 @@ G Drive of the project (GDD / Presentation) :
 
 https://drive.google.com/drive/folders/1JkFOdC5hqD9md00Rn5m-7FUZ_-2nKtF5?usp=sharing
 
-[![APP1](http://img.youtu.be/CbzR76I7uKk/0.jpg)](https://youtu.be/CbzR76I7uKk)
+[![APP1](https://i9.ytimg.com/vi/CbzR76I7uKk/mq2.jpg?sqp=CMTH798F&rs=AOn4CLBW-NWciyxM5Ui5rusMdHPNq4qOxA)](https://youtu.be/CbzR76I7uKk)
 
  <div align="center">
   <a href=" https://youtu.be/CbzR76I7uKk"><img src="https://i9.ytimg.com/vi/CbzR76I7uKk/mq2.jpg?sqp=CMTH798F&rs=AOn4CLBW-NWciyxM5Ui5rusMdHPNq4qOxA" alt="Atom Punch Proto 1"></a>
